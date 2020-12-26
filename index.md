@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chanwoo Park
+title: Jisu Jang
 subtitle: Seoul National University
 cover-img: /assets/img/main1.jpg
 ---
