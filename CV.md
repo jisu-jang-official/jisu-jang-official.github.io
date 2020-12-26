@@ -7,24 +7,17 @@ title: CV
 
 
 # Education
-### Seoul National University, 2016 to Present
-#### B.S. in Statistics, Mathematics, and Computer Science(Triple Major)
+### Seoul National University, 2020 to Present
 
- * total GPA : 4.18 / major GPA : 4.25
+#### B.A. in Psychology and German Language & Literature (Double Major)
 
-### Seoul Science High School, 2013 to 2015
+* Scholarship (Full tuition waiver for 4 years) 
 
- * Thesis : “Fourier Analysis in Bi-complex Field”; Best Thesis Award in Major in Mathematic
- 
- * GPA : 4.19
 
 <br/>
 
 # Research Interest 
- * Theoritical Statistics, Machine Learning Theory
- * Optimization
- * Non-parametric Inference
- * Biostatistics
+ * Consumer, Information Technology, Multichannel Consumer, Relation between Consumer & Market, Continuous Use Intention, Satisfaction, Share Service, Continuous Use Intention
 
 <br/>
 
